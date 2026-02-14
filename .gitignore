@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs / runtime artifacts
+runs/
+*.log
+
+# ROS / build artifacts
+build/
+install/
+log/
+
+# Docker
+*.tar
+
+# Model / data caches
+.cache/
